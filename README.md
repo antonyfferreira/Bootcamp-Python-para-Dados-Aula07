@@ -162,4 +162,4 @@ graph TD;
     * Entrada: Dicionário processado
     * Saída: Dicionário com total de vendas por categoria
 
-![imagem_04](./pic/4.jpg)# Bootcamp-Python-para-Dados-Aula07
+![imagem_04](./pic/4.jpg)
